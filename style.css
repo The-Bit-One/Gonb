@@ -15,6 +15,8 @@ button {
 	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
 	background-color:#768d87;
 	border-radius:5px;
+	text-align: center;
+        vertical-align: middle;
 	border:1px solid #566963;
 	display:inline-block;
 	cursor:pointer;
